@@ -12,4 +12,4 @@ Presentation link: https://docs.google.com/presentation/d/1QrVNcQhnF3Ge36nX8XaCF
 ![image](https://user-images.githubusercontent.com/48243487/180379307-2b83d88a-32ff-4f8d-875f-22988721c646.png)
 
 # Experiments
-![image](https://user-images.githubusercontent.com/48243487/180379457-a313e214-abee-4b77-8ae0-43ae219504e7.png)
+![image](https://user-images.githubusercontent.com/48243487/180379561-08a559d9-e7fe-49ff-88d2-fd097ef84e28.png)
