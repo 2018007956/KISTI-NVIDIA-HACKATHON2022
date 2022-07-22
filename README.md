@@ -13,3 +13,5 @@ Presentation link: https://docs.google.com/presentation/d/1QrVNcQhnF3Ge36nX8XaCF
 
 # Experiments
 ![image](https://user-images.githubusercontent.com/48243487/180379561-08a559d9-e7fe-49ff-88d2-fd097ef84e28.png)
+
+![image](https://user-images.githubusercontent.com/48243487/180379642-6fa2226a-b66b-43b6-8f5f-b40ee95e6284.png)
